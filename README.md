@@ -1,1 +1,1 @@
-# SQL_Practice
+# SQL_연습
