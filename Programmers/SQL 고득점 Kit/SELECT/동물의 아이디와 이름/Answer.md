@@ -2,6 +2,6 @@
 
 
 문제 풀이
-```
+```MySQL
 SELECT * FROM ANIMAL_INS;
 ```
