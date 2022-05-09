@@ -1,0 +1,16 @@
+⚙[문제보기](https://programmers.co.kr/learn/courses/30/lessons/59405)
+
+
+🔎문제 풀이
+MySQL
+```MySQL
+SELECT NAME FROM ANIMAL_INS
+ORDER BY DATETIME ASC LIMIT 1;
+```
+또는
+```MySQL
+SELECT NAME FROM ANIMAL_INS
+WHERE DATETIME LIKE (SELECT MIN(DATETIME) FROM ANIMAL_INS);
+```
+
+
