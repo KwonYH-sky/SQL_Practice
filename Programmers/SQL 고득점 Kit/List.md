@@ -9,10 +9,10 @@
 7. [상위 n개 레코드](https://github.com/KwonYH-sky/SQL_Practice/blob/main/Programmers/SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/SELECT/%EC%83%81%EC%9C%84%20n%EA%B0%9C%20%EB%A0%88%EC%BD%94%EB%93%9C.md)
 ***
 ## SUM, MAX, MIN
-1. [최댓값 구하기](../SUM, MAX, MIN/최댓값 구하기.md)
-2. [최솟값 구하기](../SUM, MAX, MIN/최솟값 구하기.md)
-3. [동물 수 구하기](../SUM, MAX, MIN/동물 수 구하기.md)
-4. [중복 제거하기](../SUM, MAX, MIN/중복 제거하기.md)
+1. [최댓값 구하기](https://github.com/KwonYH-sky/SQL_Practice/blob/main/Programmers/SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/SUM%2C%20MAX%2C%20MIN/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
+2. [최솟값 구하기](https://github.com/KwonYH-sky/SQL_Practice/blob/main/Programmers/SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/SUM%2C%20MAX%2C%20MIN/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
+3. [동물 수 구하기](https://github.com/KwonYH-sky/SQL_Practice/blob/main/Programmers/SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/SUM%2C%20MAX%2C%20MIN/%EB%8F%99%EB%AC%BC%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
+4. [중복 제거하기](https://github.com/KwonYH-sky/SQL_Practice/blob/main/Programmers/SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/SUM%2C%20MAX%2C%20MIN/%EC%A4%91%EB%B3%B5%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md)
 ***
 ## GROUP BY
 
