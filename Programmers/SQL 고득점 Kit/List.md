@@ -18,7 +18,8 @@
 4. [중복 제거하기](https://github.com/KwonYH-sky/SQL_Practice/blob/main/Programmers/SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/SUM%2C%20MAX%2C%20MIN/%EC%A4%91%EB%B3%B5%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md)
 ***
 ## GROUP BY
-
+1. [고양이와 개는 몇 마리 있을까](./GROUP%20BY/%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80%20%EA%B0%9C%EB%8A%94%20%EB%AA%87%20%EB%A7%88%EB%A6%AC%20%EC%9E%88%EC%9D%84%EA%B9%8C.md)
+2. [동명 동물 수 찾기](./GROUP%20BY/%EB%8F%99%EB%AA%85%20%EB%8F%99%EB%AC%BC%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.md)
 ***
 ## IS NULL
 
