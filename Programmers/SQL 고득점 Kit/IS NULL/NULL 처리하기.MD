@@ -1,0 +1,24 @@
+⚙[문제보기](https://programmers.co.kr/learn/courses/30/lessons/59410)
+
+
+🔎문제 풀이
+MySQL
+```MySQL
+SELECT ANIMAL_TYPE, COALESCE(NAME, 'No name'), SEX_UPON_INTAKE
+FROM ANIMAL_INS;
+```
+OR
+```MySQL
+SELECT ANIMAL_TYPE, IFNULL(NAME, 'No name') NAME, SEX_UPON_INTAKE
+FROM ANIMAL_INS;
+```
+OR
+```MySQL
+SELECT ANIMAL_TYPE, 
+CASE
+    WHEN NAME IS NULL THEN 'No name'
+    ELSE NAME END NAME, 
+SEX_UPON_INTAKE
+FROM ANIMAL_INS;
+```
+***
