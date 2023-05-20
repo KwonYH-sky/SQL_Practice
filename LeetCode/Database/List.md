@@ -2,6 +2,12 @@
 
 175.[두 테이블 합치기](./Problems/Combine%20Two%20Tables.md)
 
+627.[급여 교환](./Problems/Swap%20Salary.md)
+
+1068.[제품 판매 분석 I](./Problems/Product%20Sales%20Analysis%20I.md)
+
+1179.[부서 테이블 재포맷](./Problems/Reformat%20Department%20Table.md)
+
 1378.[직원 ID를 고유 식별자로 바꾸기](./Problems/Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md)
 
 1393.[자본 이익/손실](./Problems/Capital%20Gain%2CLoss.md)
