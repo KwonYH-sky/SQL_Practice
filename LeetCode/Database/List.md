@@ -8,9 +8,13 @@
 
 1179.[부서 테이블 재포맷](./Problems/Reformat%20Department%20Table.md)
 
+1251.[평균 판매 금액](./Problems/Average%20Selling%20Price.md)
+
 1378.[직원 ID를 고유 식별자로 바꾸기](./Problems/Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md)
 
 1393.[자본 이익/손실](./Problems/Capital%20Gain%2CLoss.md)
+
+1484.[날짜별 그룹 판매 제품들](./Problems/Group%20Sold%20Products%20By%20The%20Date.md)
 
 1581.[방문했지만 구매하지 않는 고객](./Problems/Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.md)
 
@@ -25,5 +29,7 @@
 1757.[재활용과 저지방](./Problems/Recyclable%20and%20Low%20Fat%20Products.md)
 
 1795.[생산 테이블 재배열](./Problems/Rearrange%20Products%20Table.md)
+
+1890.[2020년에 마지막 로그인](./Problems/The%20Latest%20Login%20in%202020.md)
 
 2356.[각 교사가 가르치는 고유의 과목 수](./Problems/Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.md)
