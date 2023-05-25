@@ -1,4 +1,4 @@
-⚙[문제보기](https://leetcode.com/problems/problems/average-selling-price/)
+⚙[문제보기](https://leetcode.com/problems/average-selling-price/)
 
 
 

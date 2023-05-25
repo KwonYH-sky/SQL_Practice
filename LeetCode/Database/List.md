@@ -6,6 +6,8 @@
 
 1068.[제품 판매 분석 I](./Problems/Product%20Sales%20Analysis%20I.md)
 
+1148.[기사 보기 I](./Problems/Article%20Views%20I.md)
+
 1179.[부서 테이블 재포맷](./Problems/Reformat%20Department%20Table.md)
 
 1251.[평균 판매 금액](./Problems/Average%20Selling%20Price.md)
@@ -27,6 +29,8 @@
 1741.[각 직원이 보낸 총시간 찾기](./Problems/Find%20Total%20Time%20Spent%20by%20Each%20Employee.md)
 
 1757.[재활용과 저지방](./Problems/Recyclable%20and%20Low%20Fat%20Products.md)
+
+1789.[직원별 1차 부서](./Problems/Primary%20Department%20for%20Each%20Employee.md)
 
 1795.[생산 테이블 재배열](./Problems/Rearrange%20Products%20Table.md)
 
