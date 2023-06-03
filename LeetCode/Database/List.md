@@ -2,11 +2,15 @@
 
 175.[두 테이블 합치기](./Problems/Combine%20Two%20Tables.md)
 
+182.[중복된 이메일](./Problems/Duplicate%20Emails.md)
+
 511.[게임 플레이 분석 I](./Problems/Game%20Play%20Analysis%20I.md)
 
 577.[직원 보너스](./Problems/Employee%20Bonus.md)
 
 608.[트리 노드](./Problems/Tree%20Node.md)
+
+610.[삼각형 판별](./Problems/Triangle%20Judgement.md)
 
 620.[지루하지 않는 영화](./Problems/Not%20Boring%20Movies.md)
 
@@ -39,6 +43,8 @@
 1683.[유효한 트윗들](./Problems/Invalid%20Tweets.md)
 
 1693.[일일 리드와 파트너](./Problems/Daily%20Leads%20and%20Partners.md)
+
+1729.[팔로우 수 찾기](./Problems/Find%20Followers%20Count.md)
 
 1741.[각 직원이 보낸 총시간 찾기](./Problems/Find%20Total%20Time%20Spent%20by%20Each%20Employee.md)
 
