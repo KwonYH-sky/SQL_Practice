@@ -8,6 +8,10 @@
 
 577.[직원 보너스](./Problems/Employee%20Bonus.md)
 
+584.[고객 레퍼리 찾기](./Problems/Find%20Customer%20Referee.md)
+
+595.[대국](./Problems/Big%20Countries.md)
+
 608.[트리 노드](./Problems/Tree%20Node.md)
 
 610.[삼각형 판별](./Problems/Triangle%20Judgement.md)
@@ -15,6 +19,8 @@
 620.[지루하지 않는 영화](./Problems/Not%20Boring%20Movies.md)
 
 627.[급여 교환](./Problems/Swap%20Salary.md)
+
+1050.[최소 세 번 이상 협력한 배우와 감독](./Problems/Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.md)
 
 1068.[제품 판매 분석 I](./Problems/Product%20Sales%20Analysis%20I.md)
 
