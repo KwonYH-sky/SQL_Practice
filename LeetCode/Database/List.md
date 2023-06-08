@@ -2,7 +2,11 @@
 
 175.[두 테이블 합치기](./Problems/Combine%20Two%20Tables.md)
 
+181.[자기 매니저 보다 더 많이 받는 직원](./Problems/Employees%20Earning%20More%20Than%20Their%20Managers.md)
+
 182.[중복된 이메일](./Problems/Duplicate%20Emails.md)
+
+183.[단 한번도 주문 안한 고객](./Problems/Customers%20Who%20Never%20Order.md)
 
 511.[게임 플레이 분석 I](./Problems/Game%20Play%20Analysis%20I.md)
 
@@ -29,6 +33,8 @@
 1179.[부서 테이블 재포맷](./Problems/Reformat%20Department%20Table.md)
 
 1204.[버스에 탈 수 있는 마지막 사람](./Problems/Last%20Person%20to%20Fit%20in%20the%20Bus.md)
+
+1211.[쿼리 품질과 퍼센트](./Problems/./Queries%20Quality%20and%20Percentage.md)
 
 1251.[평균 판매 금액](./Problems/Average%20Selling%20Price.md)
 
