@@ -44,6 +44,10 @@
 
 1251.[평균 판매 금액](./Problems/Average%20Selling%20Price.md)
 
+1280.[학생과 시험](./Problems/Students%20and%20Examinations.md)
+
+1321.[식당 성장](./Problems/Restaurant%20Growth.md)
+
 1327.[특정 시기에 주문한 제품 리스트](./Problems/List%20the%20Products%20Ordered%20in%20a%20Period.md)
 
 1378.[직원 ID를 고유 식별자로 바꾸기](./Problems/Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md)
