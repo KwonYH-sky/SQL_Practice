@@ -30,9 +30,13 @@
 
 627.[급여 교환](./Problems/Swap%20Salary.md)
 
+1045.[모든 제품을 구매한 고객](./Problems/Customers%20Who%20Bought%20All%20Products.md)
+
 1050.[최소 세 번 이상 협력한 배우와 감독](./Problems/Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.md)
 
 1068.[제품 판매 분석 I](./Problems/Product%20Sales%20Analysis%20I.md)
+
+1075.[프로젝트 직원 I](./Problems/Project%20Employees%20I.md)
 
 1148.[기사 보기 I](./Problems/Article%20Views%20I.md)
 
@@ -61,6 +65,8 @@
 1587.[은행 계좌 요약 II](./Problems/Bank%20Account%20Summary%20II.md)
 
 1661.[기계별 과정 평균 시간](./Problems/Average%20Time%20of%20Process%20per%20Machine.md)
+
+1667.[테이블 내 이름 고치기](./Problems/Fix%20Names%20in%20a%20Table.md)
 
 1683.[유효한 트윗들](./Problems/Invalid%20Tweets.md)
 
