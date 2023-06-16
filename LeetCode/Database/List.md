@@ -10,6 +10,8 @@
 
 511.[게임 플레이 분석 I](./Problems/Game%20Play%20Analysis%20I.md)
 
+570.[직속 부하가 5명 이상인 관리자](./Problems/Managers%20with%20at%20Least%205%20Direct%20Reports.md)
+
 577.[직원 보너스](./Problems/Employee%20Bonus.md)
 
 584.[고객 레퍼리 찾기](./Problems/Find%20Customer%20Referee.md)
@@ -40,7 +42,11 @@
 
 1148.[기사 보기 I](./Problems/Article%20Views%20I.md)
 
+1164.[주어진 날짜의 제품 가격](./Problems/Product%20Price%20at%20a%20Given%20Date.md)
+
 1179.[부서 테이블 재포맷](./Problems/Reformat%20Department%20Table.md)
+
+1193.[월간 거래 I](./Problems/Monthly%20Transactions%20I.md)
 
 1204.[버스에 탈 수 있는 마지막 사람](./Problems/Last%20Person%20to%20Fit%20in%20the%20Bus.md)
 

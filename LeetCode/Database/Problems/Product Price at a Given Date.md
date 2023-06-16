@@ -1,0 +1,22 @@
+⚙[문제보기](https://leetcode.com/problems/product-price-at-a-given-date/)
+
+
+
+🔎문제 풀이
+MySQL
+```MySQL
+SELECT DISTINCT product_id, 10 AS 'price'
+FROM Products
+GROUP BY product_id
+HAVING (MIN(change_date) > "2019-08-16")
+UNION
+SELECT p2.product_id, new_price
+FROM Products p2
+WHERE (p2.product_id, p2.change_date) IN
+(
+SELECT product_id, max(change_date) AS recent_date
+FROM Products
+WHERE change_date <= "2019-08-16"
+GROUP BY product_id
+);
+```
