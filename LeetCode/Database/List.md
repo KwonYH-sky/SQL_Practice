@@ -8,6 +8,8 @@
 
 183.[단 한번도 주문 안한 고객](./Problems/Customers%20Who%20Never%20Order.md)
 
+196.[중복된 이메일 삭제하기](./Problems/Delete%20Duplicate%20Emails.md)
+
 511.[게임 플레이 분석 I](./Problems/Game%20Play%20Analysis%20I.md)
 
 570.[직속 부하가 5명 이상인 관리자](./Problems/Managers%20with%20at%20Least%205%20Direct%20Reports.md)
@@ -70,6 +72,8 @@
 
 1587.[은행 계좌 요약 II](./Problems/Bank%20Account%20Summary%20II.md)
 
+1633.[콘테스트에 참가한 사용자 비율](./Problems/Percentage%20of%20Users%20Attended%20a%20Contest.md)
+
 1661.[기계별 과정 평균 시간](./Problems/Average%20Time%20of%20Process%20per%20Machine.md)
 
 1667.[테이블 내 이름 고치기](./Problems/Fix%20Names%20in%20a%20Table.md)
@@ -89,6 +93,8 @@
 1795.[생산 테이블 재배열](./Problems/Rearrange%20Products%20Table.md)
 
 1890.[2020년에 마지막 로그인](./Problems/The%20Latest%20Login%20in%202020.md)
+
+1934.[확인율](./Problems/Confirmation%20Rate.md)
 
 1965.[정보가 누락된 직원](./Problems/Employees%20With%20Missing%20Information.md)
 
