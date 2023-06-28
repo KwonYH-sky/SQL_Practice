@@ -48,6 +48,8 @@
 
 1148.[기사 보기 I](./Problems/Article%20Views%20I.md)
 
+1158. [시장 분석 I](./Problems/Market%20Analysis%20I.md)
+
 1164.[주어진 날짜의 제품 가격](./Problems/Product%20Price%20at%20a%20Given%20Date.md)
 
 1179.[부서 테이블 재포맷](./Problems/Reformat%20Department%20Table.md)
@@ -98,7 +100,11 @@
 
 1795.[생산 테이블 재배열](./Problems/Rearrange%20Products%20Table.md)
 
+1873.[특별 보너스 계산](./Problems/Calculate%20Special%20Bonus.md)
+
 1890.[2020년에 마지막 로그인](./Problems/The%20Latest%20Login%20in%202020.md)
+
+1907.[급여 카테고리 수](./Problems/Count%20Salary%20Categories.md)
 
 1934.[확인율](./Problems/Confirmation%20Rate.md)
 
