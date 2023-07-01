@@ -10,6 +10,8 @@
 
 183.[단 한번도 주문 안한 고객](./Problems/Customers%20Who%20Never%20Order.md)
 
+185.[부서 TOP3 급여](./Problems/Department%20Top%20Three%20Salaries.md)
+
 196.[중복된 이메일 삭제하기](./Problems/Delete%20Duplicate%20Emails.md)
 
 511.[게임 플레이 분석 I](./Problems/Game%20Play%20Analysis%20I.md)
@@ -32,6 +34,8 @@
 
 610.[삼각형 판별](./Problems/Triangle%20Judgement.md)
 
+619.[가장 큰 단일 번호](./Problems/Biggest%20Single%20Number.md)
+
 620.[지루하지 않는 영화](./Problems/Not%20Boring%20Movies.md)
 
 626.[자리 교환](./Problems/Exchange%20Seats.md)
@@ -48,9 +52,11 @@
 
 1148.[기사 보기 I](./Problems/Article%20Views%20I.md)
 
-1158. [시장 분석 I](./Problems/Market%20Analysis%20I.md)
+1158.[시장 분석 I](./Problems/Market%20Analysis%20I.md)
 
 1164.[주어진 날짜의 제품 가격](./Problems/Product%20Price%20at%20a%20Given%20Date.md)
+
+1174.[즉시 음식 배달 II](./Problems/Immediate%20Food%20Delivery%20II.md)
 
 1179.[부서 테이블 재포맷](./Problems/Reformat%20Department%20Table.md)
 
