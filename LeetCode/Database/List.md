@@ -10,7 +10,9 @@
 
 183.[단 한번도 주문 안한 고객](./Problems/Customers%20Who%20Never%20Order.md)
 
-185.[부서 TOP3 급여](./Problems/Department%20Top%20Three%20Salaries.md)
+184. [부서 가장 큰 급여](./Problems/Department%20Highest%20Salary.md)
+
+185.[🤯부서 TOP3 급여](./Problems/Department%20Top%20Three%20Salaries.md)
 
 196.[중복된 이메일 삭제하기](./Problems/Delete%20Duplicate%20Emails.md)
 
@@ -20,11 +22,15 @@
 
 577.[직원 보너스](./Problems/Employee%20Bonus.md)
 
+585.[2016 투자](./Problems/Investments%20in%202016.md)
+
 584.[고객 레퍼리 찾기](./Problems/Find%20Customer%20Referee.md)
 
 586.[가장 많은 주문을 한 고객](./Problems/Customer%20Placing%20the%20Largest%20Number%20of%20Orders.md)
 
 595.[대국](./Problems/Big%20Countries.md)
+
+596.[5명 이상의 과목](./Problems/Classes%20More%20Than%205%20Students.md)
 
 602.[친구 요청 II: 친구가 가장 많은 사람](./Problems/Friend%20Requests%20II%20Who%20Has%20the%20Most%20Friends.md)
 
@@ -56,7 +62,7 @@
 
 1164.[주어진 날짜의 제품 가격](./Problems/Product%20Price%20at%20a%20Given%20Date.md)
 
-1174.[즉시 음식 배달 II](./Problems/Immediate%20Food%20Delivery%20II.md)
+1174.[😫즉시 음식 배달 II](./Problems/Immediate%20Food%20Delivery%20II.md)
 
 1179.[부서 테이블 재포맷](./Problems/Reformat%20Department%20Table.md)
 
