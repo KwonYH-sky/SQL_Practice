@@ -32,6 +32,8 @@
 
 596.[5명 이상의 과목](./Problems/Classes%20More%20Than%205%20Students.md)
 
+601.[경기장의 인적 왕래](./Problems/Human%20Traffic%20of%20Stadium.md)
+
 602.[친구 요청 II: 친구가 가장 많은 사람](./Problems/Friend%20Requests%20II%20Who%20Has%20the%20Most%20Friends.md)
 
 607.[영업직](./Problems/Sales%20Person.md)
@@ -55,6 +57,8 @@
 1068.[제품 판매 분석 I](./Problems/Product%20Sales%20Analysis%20I.md)
 
 1075.[프로젝트 직원 I](./Problems/Project%20Employees%20I.md)
+
+1141.[지난 30일 사용자 활동 I](./Problems/User%20Activity%20for%20the%20Past%2030%20Days%20I.md)
 
 1148.[기사 보기 I](./Problems/Article%20Views%20I.md)
 
@@ -87,6 +91,8 @@
 1407.[톱 여행자](./Problems/Top%20Travellers.md)
 
 1484.[날짜별 그룹 판매 제품들](./Problems/Group%20Sold%20Products%20By%20The%20Date.md)
+
+1517.[유효한 사용자 이메일 찾기](./Problems/Find%20Users%20With%20Valid%20E-Mails.md)
 
 1581.[방문했지만 구매하지 않는 고객](./Problems/Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.md)
 
