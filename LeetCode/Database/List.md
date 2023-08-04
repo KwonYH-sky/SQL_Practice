@@ -58,6 +58,8 @@
 
 1075.[프로젝트 직원 I](./Problems/Project%20Employees%20I.md)
 
+1084.[판매 분석 III](./Problems/Sales%20Analysis%20III.md)
+
 1141.[지난 30일 사용자 활동 I](./Problems/User%20Activity%20for%20the%20Past%2030%20Days%20I.md)
 
 1148.[기사 보기 I](./Problems/Article%20Views%20I.md)
@@ -66,7 +68,9 @@
 
 1164.[주어진 날짜의 제품 가격](./Problems/Product%20Price%20at%20a%20Given%20Date.md)
 
-1174.[😫즉시 음식 배달 II](./Problems/Immediate%20Food%20Delivery%20II.md)
+1173. [음식 신속 배달 I](./Problems/Immediate%20Food%20Delivery%20I.md)
+
+1174.[😫음식 신속 배달 II](./Problems/Immediate%20Food%20Delivery%20II.md)
 
 1179.[부서 테이블 재포맷](./Problems/Reformat%20Department%20Table.md)
 
