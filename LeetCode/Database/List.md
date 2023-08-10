@@ -68,7 +68,7 @@
 
 1164.[주어진 날짜의 제품 가격](./Problems/Product%20Price%20at%20a%20Given%20Date.md)
 
-1173. [음식 신속 배달 I](./Problems/Immediate%20Food%20Delivery%20I.md)
+1173.[음식 신속 배달 I](./Problems/Immediate%20Food%20Delivery%20I.md)
 
 1174.[😫음식 신속 배달 II](./Problems/Immediate%20Food%20Delivery%20II.md)
 

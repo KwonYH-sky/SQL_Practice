@@ -1,4 +1,4 @@
-⚙[문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/164670)
+⚙[문제보기](https://leetcode.com/problems/immediate-food-delivery-i/)
 
 
 
