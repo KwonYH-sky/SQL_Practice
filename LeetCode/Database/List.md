@@ -132,4 +132,8 @@
 
 1965.[정보가 누락된 직원](./Problems/Employees%20With%20Missing%20Information.md)
 
+1978.[회사 떠난 매니저를 가지고 있는 직원](./Problems/Employees%20Whose%20Manager%20Left%20the%20Company.md)
+
+2082.[부유한 고객의 수](./Problems/The%20Number%20of%20Rich%20Customers.md)
+
 2356.[각 교사가 가르치는 고유의 과목 수](./Problems/Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.md)
