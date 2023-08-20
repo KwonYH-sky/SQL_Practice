@@ -4,6 +4,8 @@
 
 178.[순위 점수](./Problems/Rank%20Scores.md)
 
+180.[연속된 숫자](./Problems/Consecutive%20Numbers.md)
+
 181.[자기 매니저 보다 더 많이 받는 직원](./Problems/Employees%20Earning%20More%20Than%20Their%20Managers.md)
 
 182.[중복된 이메일](./Problems/Duplicate%20Emails.md)
@@ -15,6 +17,8 @@
 185.[🤯부서 TOP3 급여](./Problems/Department%20Top%20Three%20Salaries.md)
 
 196.[중복된 이메일 삭제하기](./Problems/Delete%20Duplicate%20Emails.md)
+
+197.[온도 상승](./Problems/Rising%20Temperature.md)
 
 511.[게임 플레이 분석 I](./Problems/Game%20Play%20Analysis%20I.md)
 
@@ -88,6 +92,8 @@
 
 1327.[특정 시기에 주문한 제품 리스트](./Problems/List%20the%20Products%20Ordered%20in%20a%20Period.md)
 
+1341.[영화 평점](./Problems/Movie%20Rating.md)
+
 1378.[직원 ID를 고유 식별자로 바꾸기](./Problems/Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md)
 
 1393.[자본 이익/손실](./Problems/Capital%20Gain%2CLoss.md)
@@ -113,6 +119,8 @@
 1693.[일일 리드와 파트너](./Problems/Daily%20Leads%20and%20Partners.md)
 
 1729.[팔로우 수 찾기](./Problems/Find%20Followers%20Count.md)
+
+1731.[각 직원에게 보고하는 직원 수](./Problems/The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.md)
 
 1741.[각 직원이 보낸 총시간 찾기](./Problems/Find%20Total%20Time%20Spent%20by%20Each%20Employee.md)
 
