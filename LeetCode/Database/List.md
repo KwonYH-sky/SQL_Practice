@@ -2,6 +2,8 @@
 
 175.[두 테이블 합치기](./Problems/Combine%20Two%20Tables.md)
 
+176.[두 번째로 높은 급여](Problems/Second%20Highest%20Salary.md)
+
 178.[순위 점수](./Problems/Rank%20Scores.md)
 
 180.[연속된 숫자](./Problems/Consecutive%20Numbers.md)
@@ -59,6 +61,8 @@
 1050.[최소 세 번 이상 협력한 배우와 감독](./Problems/Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.md)
 
 1068.[제품 판매 분석 I](./Problems/Product%20Sales%20Analysis%20I.md)
+
+1070.[제품 판매 분석 III](./Problems/Product%20Sales%20Analysis%20III.md)
 
 1075.[프로젝트 직원 I](./Problems/Project%20Employees%20I.md)
 
