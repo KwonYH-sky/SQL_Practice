@@ -4,6 +4,8 @@
 
 176.[두 번째로 높은 급여](Problems/Second%20Highest%20Salary.md)
 
+177.[N 번째로 높은 급여](./Problems/Nth%20Highest%20Salary.md)
+
 178.[순위 점수](./Problems/Rank%20Scores.md)
 
 180.[연속된 숫자](./Problems/Consecutive%20Numbers.md)
@@ -23,6 +25,8 @@
 197.[온도 상승](./Problems/Rising%20Temperature.md)
 
 511.[게임 플레이 분석 I](./Problems/Game%20Play%20Analysis%20I.md)
+
+550.[게임 플레이 분석 IV](./Problems/Game%20Play%20Analysis%20IV.md)
 
 570.[직속 부하가 5명 이상인 관리자](./Problems/Managers%20with%20at%20Least%205%20Direct%20Reports.md)
 
